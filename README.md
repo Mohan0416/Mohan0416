@@ -30,9 +30,7 @@ Welcome to my GitHub profile! I am an aspiring **AI & ML Engineer** currently pu
 
 ### **Backend**
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 </p>
 
 ### **Machine Learning & Data Science**
@@ -44,7 +42,7 @@ Welcome to my GitHub profile! I am an aspiring **AI & ML Engineer** currently pu
 
 
 ## 📊 LeetCode Stats  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Mohan_04?theme=dark&font=Montserrat&ext=heatmap)](https://leetcode.com/Mohan_04/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Mohan_04?theme=dark&font=Montserrat&ext)](https://leetcode.com/Mohan_04/)
 
 
 
@@ -52,13 +50,13 @@ Welcome to my GitHub profile! I am an aspiring **AI & ML Engineer** currently pu
 
 <p align="left">
   <a href="mailto:manomohan714@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
-  <a href="https://www.linkedin.com/in/Mohan">
+  <a href="[https://www.linkedin.com/in/Mohan]">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/Mohan_04/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://www.kaggle.com/Mohan_04">
+  <a href="https://www.kaggle.com/Mohan_0444">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 </p>
