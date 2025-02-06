@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I am an aspiring **AI & ML Engineer** currently pu
 ---
 
 ## 🏫 About Me  
-🎓 **Education**: B.Tech in AI & ML, Kongu Engineering College (Graduating June 2026, CGPA: 8.51/10)  
+🎓 **Education**: B.Tech in AI & ML, Kongu Engineering College (Graduating June 2026)  
 💡 **Areas of Interest**: Full Stack Development, Machine Learning  
 
 ---
@@ -49,14 +49,13 @@ Welcome to my GitHub profile! I am an aspiring **AI & ML Engineer** currently pu
 ### **🔗 Let's Connect**  
 
 <p align="left">
-  <a href="mailto:manomohan714@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
-  <a href="[https://www.linkedin.com/in/Mohan]">
+  <a href="https://www.linkedin.com/in/mohan-r-124398259/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/Mohan_04/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://www.kaggle.com/Mohan_0444">
+  <a href="https://www.kaggle.com/mohan0444">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 </p>
