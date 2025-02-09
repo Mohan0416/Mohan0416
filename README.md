@@ -1,6 +1,6 @@
 # Hi there, I'm Mohan R 👋  
 
-Welcome to my GitHub profile! I am an aspiring **AI & ML Engineer** currently pursuing a **B.Tech in Artificial Intelligence and Machine Learning** at **Kongu Engineering College**. Passionate about solving real-world problems, I specialize in **Full Stack Development** and **Machine Learning applications**.
+Welcome to my GitHub profile! I am an aspiring **AI & ML Engineer** currently pursuing  **B.Tech in Artificial Intelligence and Machine Learning** at **Kongu Engineering College**. Passionate about solving real-world problems, I specialize in **Full Stack Development** and **Machine Learning applications**.
 
 ---
 
